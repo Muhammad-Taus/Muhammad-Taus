@@ -14,7 +14,7 @@ I'm a passionate software development enthusiast with a solid understanding of f
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express, Python, Django
 - **Databases:** MongoDB, MySQL
-- **Tools:** Git, VSCode, Postman
+- **Tools:** Git, VSCode
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
