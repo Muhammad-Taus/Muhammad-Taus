@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taus</h1>
-<h3 align="center">A passionate Software Development (Backend)/ DevOps Enthusiast</h3>
+<h3 align="center">A passionate Software Development Enthusiast</h3>
 
 ### About Me
 
-I'm a passionate software development (backend) & DevOps enthusiast with a solid understanding of full-stack web applications & DevOps lifecycle. I have experience with Node.js, Express.js, MongoDB, MySQL, Python, Django, front-end technologies, and more. I love building applications and exploring new technologies.
+I'm a passionate software development enthusiast with a solid understanding of full-stack web applications. I have experience with Node.js, Express.js, MongoDB, MySQL, Python, Django, front-end technologies, and more. I love building applications and exploring new technologies.
 
 ### Current Focus
 
-📚 I'm currently focusing on Data Structures and Algorithms (DSA) for interview preparation to enhance my problem-solving skills and excel in technical interviews. Additionally, I am working on some of my projects related to the web and further, I intend to focus on DevOps tools & practices.
+📚 I'm currently focusing on Data Structures and Algorithms (DSA) for interview preparation to enhance my problem-solving skills and excel in technical interviews. Additionally, I am working on some of my projects related to the web and further, I intend to focus on full-stack software development.
 
 ### Skills
 
