@@ -7,14 +7,15 @@ I'm a passionate software development enthusiast with a solid understanding of f
 
 ### Current Focus
 
-📚 I'm currently focusing on Data Structures and Algorithms (DSA) for interview preparation to enhance my problem-solving skills and excel in technical interviews. Additionally, I am working on some of my projects related to the web and further, I intend to focus on full-stack software development.
+📚 Currently, I am enhancing my frontend development skills by working on projects through Frontend Mentor, and many of my projects are publicly hosted on GitHub. Additionally, I am prioritizing Data Structures and Algorithms (DSA) for interview preparation to enhance my problem-solving skills and excel in technical interviews. I intend to focus on full-stack software development.
 
 ### Skills
 
-- **Backend:** Node.js, Express.js, Python, Django
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VSCode
 - **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, Python, Django
+- **Databases:** MySQL, MongoDB 
+- **Tools:** Git, VSCode
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
